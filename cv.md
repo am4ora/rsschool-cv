@@ -1,2 +1,39 @@
 # **Elena Ukraine**
 
+### Contacts:
+**@mail:**
+*am4ora@tuta.io;*   
+
+__tel:__
+_+380680000000_
+
+### About myself
+I'm an enthusiastic, self-motivated, purposeful person who likes to set the goals and reach it. I don't have commercial expeirense in front-end developing but I'm ready to work hard and learn something new every single day. I would glad to work in a team, I'm flexible and friendly.
+
+### Skills
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* GitHub
+* SQL
+
+### Code examples
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+### Work experience
+
+### Education
+|Year | Degree|
+|------------ | -------------|
+|2006 - 2011 | Specialist degree|
+|2017 - 2019 | Master degree|
+
+### English skills
+English level is B1
