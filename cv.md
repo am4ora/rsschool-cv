@@ -1,16 +1,16 @@
-# **Elena Ukraine**
+# **ELENA UKRAINE**
 
-### Contacts:
+### CONTACTS:
 **@mail:**
 *am4ora@tuta.io;*   
 
 __tel:__
 _+380680000000_
 
-### About myself
+### ABOUT MYSELF
 I'm an enthusiastic, self-motivated, purposeful person who likes to set the goals and reach it. I don't have commercial expeirense in front-end developing but I'm ready to work hard and learn something new every single day. I would glad to work in a team, I'm flexible and friendly.
 
-### Skills
+### SKILLS
 * HTML
 * CSS
 * JavaScript
@@ -19,7 +19,7 @@ I'm an enthusiastic, self-motivated, purposeful person who likes to set the goal
 * GitHub
 * SQL
 
-### Code examples
+### CODE EXEMPLES
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
@@ -27,13 +27,13 @@ function fancyAlert(arg) {
   }
 }
 ```
-### Work experience
+### WORK EXPERIENCE
 
-### Education
+### EDUCATION
 |Year | Degree|
 |------------ | -------------|
 |2006 - 2011 | Specialist degree|
 |2017 - 2019 | Master degree|
 
-### English skills
+### ENGLISH SKILLS
 English level is B1
