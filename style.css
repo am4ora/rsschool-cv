@@ -1,0 +1,33 @@
+body{
+    max-width: 1024px;
+    font-family: sans-serif;
+    text-align:center;
+}
+
+pre.code{
+    margin-top: 0px;
+    display:inline-block;
+    text-align: left;
+}
+
+ul{
+    max-width:300px;
+    margin-top: 0px;
+    margin-bottom: 0px;	
+    display:inline-block;
+    text-align: left;
+}
+
+li{
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+  margin-right: auto;
+  }
+
+table, th, td {
+    border: 1px solid black;
+  }
